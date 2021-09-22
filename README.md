@@ -12,9 +12,9 @@
 
 ### 使用方法
 1. 安装需要的环境
-chrome 版本93.0.4577.82
-python
-selenium
+chrome 版本93.0.4577.82  
+python  
+selenium  
 2. 执行run.bat脚本
 3. 登录系统
 4. 打开学习视频，关闭其他标签页
